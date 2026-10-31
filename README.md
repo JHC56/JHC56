@@ -2,13 +2,14 @@
 
 *langgenius/dify* ([GitHub](https://github.com/langgenius/dify)) ![](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%98%85)
 
-- [CVE-2026-105761](https://nvd.nist.gov/vuln/detail/CVE-2026-105761) (High, CVSS 7.1) — MCP server IDOR | [Report](https://github.com/langgenius/dify/security/advisories/GHSA-ccrj-frp2-c945) | Write-up
+- [CVE-2026-105761](https://nvd.nist.gov/vuln/detail/CVE-2026-105761) (High, CVSS 7.1) — IDOR in AppMCPServer PUT Endpoint Allows Modification of Other Apps' MCP Servers
+ | [Report](https://github.com/langgenius/dify/security/advisories/GHSA-ccrj-frp2-c945) | Write-up
 
 *Significant-Gravitas/AutoGPT* ([GitHub](https://github.com/Significant-Gravitas/AutoGPT)) ![](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat&label=%E2%98%85)
 
-- [GHSA-qrmh-27g7-9cp2](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-qrmh-27g7-9cp2) (Moderate, CVSS 6.5) <sub>(CVE pending)</sub> — MatchTextPatternBlock ReDoS | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-qrmh-27g7-9cp2) | Write-up
-- [GHSA-847j-hphx-v6f3](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-847j-hphx-v6f3) (Moderate, CVSS 6.5) <sub>(CVE pending)</sub> — XMLParserBlock ReDoS | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-847j-hphx-v6f3) | Write-up
-- [GHSA-x9c2-wpmm-2mx4](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x9c2-wpmm-2mx4) (Moderate, CVSS 5.9) <sub>(CVE pending)</sub> — Shared chat secret leak | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x9c2-wpmm-2mx4) | Write-up
+- [GHSA-qrmh-27g7-9cp2](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-qrmh-27g7-9cp2) (Moderate, CVSS 6.5) <sub>(CVE pending)</sub> — ReDoS in MatchTextPatternBlock via unbounded user-supplied regex | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-qrmh-27g7-9cp2) | Write-up
+- [GHSA-847j-hphx-v6f3](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-847j-hphx-v6f3) (Moderate, CVSS 6.5) <sub>(CVE pending)</sub> —Quadratic-time ReDoS in XMLParserBlock via the gravitasml tokenizer | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-847j-hphx-v6f3) | Write-up
+- [GHSA-x9c2-wpmm-2mx4](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x9c2-wpmm-2mx4) (Moderate, CVSS 5.9) <sub>(CVE pending)</sub> — Public chat share leaks secrets stored under camelCase keys (redaction bypass) | [Report](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x9c2-wpmm-2mx4) | Write-up
 
 ## Contributions
 
