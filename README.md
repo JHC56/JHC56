@@ -15,6 +15,7 @@
 *huggingface/transformers* ([GitHub](https://github.com/huggingface/transformers)) ![](https://img.shields.io/github/stars/huggingface/transformers?style=flat&label=%E2%98%85)
 
 - [PR #48709](https://github.com/huggingface/transformers/pull/48709) / [Issue #48626](https://github.com/huggingface/transformers/issues/48626) — Fix backslash handling in chat generation flags | [v5.18.0](https://github.com/huggingface/transformers/releases/tag/v5.18.0)
+- [Issue #48588](https://github.com/huggingface/transformers/issues/48588) — Report crashes and truncated values in chat generation flags | fixed
 
 *langgenius/dify* ([GitHub](https://github.com/langgenius/dify)) ![](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%98%85)
 
