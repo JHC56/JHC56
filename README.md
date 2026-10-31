@@ -19,11 +19,11 @@
 *langgenius/dify* ([GitHub](https://github.com/langgenius/dify)) ![](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%98%85)
 
 - [PR #44718](https://github.com/langgenius/dify/pull/44718) / [Issue #44717](https://github.com/langgenius/dify/issues/44717) — Fix weekly schedule preview order | merged
-- [PR #44395](https://github.com/langgenius/dify/pull/44395) / [Issue #44394](https://github.com/langgenius/dify/issues/44394) — Hide internal error details in webhook responses | merged
-- [PR #43925](https://github.com/langgenius/dify/pull/43925) / [Issue #43923](https://github.com/langgenius/dify/issues/43923) — Fix hourly schedules at month end | merged
 - [PR #43627](https://github.com/langgenius/dify/pull/43627) / [Issue #43626](https://github.com/langgenius/dify/issues/43626) — Show DST-aware timezone offsets | merged
+- [PR #43925](https://github.com/langgenius/dify/pull/43925) / [Issue #43923](https://github.com/langgenius/dify/issues/43923) — Fix hourly schedules at month end | merged
 - [PR #43532](https://github.com/langgenius/dify/pull/43532) / [Issue #43530](https://github.com/langgenius/dify/issues/43530) — Save the displayed schedule timezone | merged
 - [PR #43238](https://github.com/langgenius/dify/pull/43238) / [Issue #43237](https://github.com/langgenius/dify/issues/43237) — Apply log annotations to the displayed branch | merged
+- [PR #44395](https://github.com/langgenius/dify/pull/44395) / [Issue #44394](https://github.com/langgenius/dify/issues/44394) — Hide internal error details in webhook responses | merged
 - [PR #43049](https://github.com/langgenius/dify/pull/43049) / [Issue #43046](https://github.com/langgenius/dify/issues/43046) — Hide internal details in error responses | merged
 
 ## Projects
